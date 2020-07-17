@@ -1,0 +1,16 @@
+*.log
+*.xlsx~
+*.docx~
+*.pptx~
+*.tmp
+*.csv
+*~$*
+*.pyc
+*.magiclongfile
+*.TShared
+*.shared
+*.zip
+*.qvd
+*.qvw
+*.pickle
+
